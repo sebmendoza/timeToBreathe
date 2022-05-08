@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official breathe</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+    
+    <div class="nav">
+        <h1>time to breathe.</h1>
+        <div class="top-nav">
+            <ul>
+                <li></li>
+                <li>number of breaths</li>
+                <li>patterns in seconds</li>
+            </ul>
+        </div>
+        <div class="bottom-nav">
+            <ul></ul>
+            <ul class="num-breaths">
+                <li><button  class="breaths3 on">3</button></li>
+                <li><button  class="breaths5">5</button></li>
+                <li><button  class="breaths10">10</button></li>
+            </ul>
+            <ul class="patterns">
+                <li><button class="pattern0 on" value="0">4 - 4 - 4</button></li>
+                <li><button class="pattern1" value="1">5 - 5 - 5</button></li>
+                <li><button class="pattern2" value="2">4 - 7 - 8</button></li>
+            </ul>
+        </div>
+       
+        </div>
+
+    </div>
+    <div class="app">
+        <div class="left-space"></div>
+        <div class="video-container">
+            <div class="circle-wrap">
+                <div class="circle-outline"></div>
+                <div class="circle-progress"></div>
+            </div>
+
+            <p class="breaths-remaining">breaths remaining: <span class="breaths-text">3</span></p>
+            <p class="instructions">are you ready to start breathing?</p>
+            <button class="start">begin</button>
+        </div>
+
+        <div class="proverb">
+            <p></p>
+        </div>
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
