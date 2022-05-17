@@ -1,7 +1,7 @@
 # time to breathe.:leaves:
 
 
-## About time to breathe.
+## about time to breathe.
 
 This web page is a guided meditative breathing application that helps you slow down your busy life and stay present.
 
