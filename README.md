@@ -8,7 +8,7 @@ This web page is a guided meditative breathing application that helps you slow d
 Users can come for a quick session or take a a full 10 deep breaths. It uses easier breathing patterns for beginners and more challenging patterns like the famous 4-7-8 pattern. Using HTML, CSS, and JavaScript, time to breathe was created to help those experiencing stress - especially students during exam season. <br>
 
 Bookmark [time to breathe](https://sebmendoza.github.io/timeToBreathe/) and use it whenever you want to center yourself through breath.<br><br>
-![Homepage](homepage_image.png)
+![Homepage](homepage.png)
 
 ### Future Plans
  - Add a pause button for better user experience.
